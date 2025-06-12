@@ -1,5 +1,9 @@
 # Audio dB Analyzer
 
+
+https://github.com/user-attachments/assets/8daefa3a-62ac-4012-8b4d-5919694c1459
+
+
 A modern web application for analyzing audio levels in audio and video files. The application provides real-time audio level analysis including peak and average dB measurements with an intuitive drag-and-drop interface.
 
 ## 🚀 Features
