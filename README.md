@@ -1,5 +1,12 @@
 # Audio dB Analyzer
 
+
+
+https://github.com/user-attachments/assets/fb4cefb6-5489-43ac-bf72-fabfef214124
+
+
+
+
 A modern web application for analyzing audio levels in audio and video files. The application provides real-time audio level analysis including peak and average dB measurements with an intuitive drag-and-drop interface.
 
 ## 🚀 Features
@@ -13,7 +20,6 @@ A modern web application for analyzing audio levels in audio and video files. Th
   - Clipping detection warnings
   - Industry standard recommendations
 - **Cross-platform**: Runs on any system with Docker support
-- **Large File Support**: Handles files up to 500MB
 
 ## 🏗️ Architecture
 
