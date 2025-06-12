@@ -20,7 +20,6 @@ A modern web application for analyzing audio levels in audio and video files. Th
   - Clipping detection warnings
   - Industry standard recommendations
 - **Cross-platform**: Runs on any system with Docker support
-- **Large File Support**: Handles files up to 500MB
 
 ## 🏗️ Architecture
 
